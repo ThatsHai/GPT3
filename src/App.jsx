@@ -17,6 +17,7 @@ function App() {
       <WhatGPT3 />
       <Features />
       <Possibility />
+      {/* CTA = Click to action */}
       <CTA />
       <Blog />
       <Footer />
